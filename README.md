@@ -1,5 +1,5 @@
 # amarvirs2006.github.io
- <!DOCTYPE html>
+<!DOCTYPE html>
 <head>
 </head>
 <body>
