@@ -10,7 +10,7 @@ I am a studious type of student and my interests are usually in coding, that's w
 
 ## Activity Report Of Student Induction Programme 2024.
 My **first day at college** was good . We reached college at time and there was 9-10 am kirtan and ardass at college **Gurdwara Sahib** .After there was guru ka langer outside the gurudwara sahib , after that their we reached **auditorium** for the first time .At auditorium Dr.SB Singh (Ex-principal),Dr.Sehjpal Singh (current principal),IAS Harleen Parmar( Cheif guest of the day) addressed us . 
-![alt text]{![GNDEC jpg](https://github.com/user-attachments/assets/003679d8-9876-485e-9b8c-af6032ac413a)
+![GNDEC jpg](https://github.com/user-attachments/assets/003679d8-9876-485e-9b8c-af6032ac413a)
 
 # **2nd day at college** -On our second day **Dr. Arvind Dhingra** sir addressed us they explained us about types of members
 1. Member
