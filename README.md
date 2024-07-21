@@ -8,7 +8,7 @@ I usually spend most of my time playing mobile games but apart from that, I ofte
 # My Interests
 I am a studious type of student and my interests are usually in coding, that's why I've chosen **Computer Science** branch to pursue my interest seeking for a bright future.
 
-# My First Day At College
+# Activity Report Of Student Induction Programme 2024.
 My **first day at college** was good . We reached college at time and there was 9-10 am kirtan and ardass at college **Gurdwara Sahib** .After there was guru ka langer outside the gurudwara sahib , after that their we reached **auditorium** for the first time .At auditorium Dr.SB Singh (Ex-principal),Dr.Sehjpal Singh (current principal),IAS Harleen Parmar( Cheif guest of the day) addressed us . 
 
 **2nd day at college** -On our second day **Dr. Arvind Dhingra** sir addressed us they explained us about types of members
@@ -29,7 +29,7 @@ Even they told us 3P's for success in Life
 
  After this **Dr. HS Rai** adressed us .Firsty they asked everone that what comes into your mind when you heard **Exams** .Then He told us about his real life experiences and Sir guided us that how to start coding . Sir is Current **Controller of Examination** .He also explained that in ENGINEERING there is 90-90 rule which means if we've done 90% work but left 10% then the rest 10% took 90% effort to finish that work . This was ou 2nd day at college
 
-**3rd day at college**- 
+**3rd day at college**-On third day we were having our first class/ lecture in college. Our first class was of maths and we were taught with diffrentiation which we already done in 12th grade . After  
 
  
 
