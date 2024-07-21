@@ -16,6 +16,7 @@
         I am a studious type of student and my Interests are usually in coding, that's why
         I chose 
         <b>Computer Science</b> branch to pursue my Intrest seeking for a bright Future
-    </p>
+    </p>       
+<img src="excel.jpeg"alt="My Excel Certificate"/>
 </body>
 </html>
