@@ -10,8 +10,8 @@ I am a studious type of student and my interests are usually in coding, that's w
 
 ## Activity Report Of Student Induction Programme 2024.
 My **first day at college** was good . We reached college at time and there was 9-10 am kirtan and ardass at college **Gurdwara Sahib** .After there was guru ka langer outside the gurudwara sahib , after that their we reached **auditorium** for the first time .At auditorium Dr.SB Singh (Ex-principal),Dr.Sehjpal Singh (current principal),IAS Harleen Parmar( Cheif guest of the day) addressed us . 
-![alt text](![WhatsApp Image 2024-07-21 at 11 17 50 AM](https://github.com/user-attachments/assets/9e236e49-2f31-490c-aee5-e420a5df8a55)
-.jpg)
+![alt text]{![GNDEC jpg](https://github.com/user-attachments/assets/003679d8-9876-485e-9b8c-af6032ac413a)
+
 # **2nd day at college** -On our second day **Dr. Arvind Dhingra** sir addressed us they explained us about types of members
 1. Member
 2. Active Member
@@ -36,6 +36,7 @@ Even they told us 3P's for success in Life
 
 **5th day at college** - On 5th day hounrable guest was **Dr. Jaswinder Singh** . Sir was great personality he tausght us diffrent ways that how table of 8 can be written . Sir was very good in maths . After all this sir did experiment with balloons , sir rub the balloon with hand then the balloon stick with hand , with this experiment sir taught us the **concept of charges** .After that, For the first time ever we've visited our department of Computer Science in  **MBA Block** . We've enjoyed alot .  After that we visited three computer labs . Our department was so good and well maintained . 
 
- 
+# My Excel Certificate  
+![Excel jpg](https://github.com/user-attachments/assets/8b751893-80b8-4fd5-8086-184990c298b9)
 
  
