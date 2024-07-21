@@ -17,6 +17,6 @@
         I chose 
         <b>Computer Science</b> branch to pursue my Intrest seeking for a bright Future
     </p>       
-<img src="excel.jpeg"alt="My Excel Certificate"/>
+<img src=https://github.com/amarvirs2006/amarvirs2006.github.io/blob/main/WhatsApp%20Image%202024-07-21%20at%2011.17.50%20AM.jpeg"alt="My Excel Certificate"/>
 </body>
 </html>
