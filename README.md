@@ -15,6 +15,7 @@ My first day at college was good . We reached college at time and there was 9-10
 1. Member
 2. Active Member
 3. Executive Member
+   
 Also they told us about Types of Societies
 1. National Level Associated
 2. Department Level Associated
